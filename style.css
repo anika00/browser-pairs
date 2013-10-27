@@ -39,7 +39,7 @@ body {
 
 /* The #game element holds the game area */
 #game {
-  background-color: black; /* this is the background color that appears behind the cards */
+  background-color: #FFD700; /* this is the background color that appears behind the cards */
   position: absolute; /* the rules here all handle positioning the #game element on the page */
   display: block;
   top: 0;
